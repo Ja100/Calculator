@@ -37,4 +37,3 @@ function Operate() {
         console.log("Wrong Operator!");
     }   
 }
-
