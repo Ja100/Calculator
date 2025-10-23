@@ -1,0 +1,1 @@
+A calculator operation will consist of a number, an operator, and another number.
